@@ -1,3 +1,7 @@
+> **封存說明（2026-10-05 加註）**：本資料夾是 spec-workflow skills v2.3.0 的完整原樣（2026-03～07），2026-10 起停用，只保留作為設計歷程，不再修改。
+> 原始版本另存於公司帳號 [brahmsfan-soetek/AiCoding](https://github.com/brahmsfan-soetek/AiCoding) 的 tag `skills-final-v2.3.0`。內部相對連結保持原結構，可正常點開。
+> 現行知識請看 repo 根目錄的 [README](../README.md)。
+
 # soetek-agentic-coding-skills
 
 以 LLM 行為特性實證研究為基礎的 Claude Code Skills 集合。
